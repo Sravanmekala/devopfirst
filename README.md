@@ -1,2 +1,0 @@
-# devopfirst
-practice purpose
